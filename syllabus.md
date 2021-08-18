@@ -7,6 +7,9 @@ sitemap: false
 permalink: /syllabus/
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ## General Information
 
 - Title: ECS 199F - Student-Led iOS Development Course (Winter 2022)
@@ -41,7 +44,7 @@ This course will teach you how to develop iOS apps with SwiftUI and other new te
 
 ## Do I need ECS 150 (OS) and ECS 140 (Programming Language)?
 
-This course will be different from the ECS 189E offered by [Prof. Sam King](https://bob.cs.ucdavis.edu/), where OS is highly involved. This course will mainly focus on constructing the UI and animation with SwiftUI and some advanced language features in Swift. Hence, we will not heavily rely on ECS 150 here.  However, the knowledge of OS will definitely help you understand course materials. Also, optional materials on advanced scheduling might be provided for your interests. Since you will learn Swift, a functional programming language, ECS 140 will definitely help you quickly pick up Swift in this course.
+This course will be different from the ECS 189E offered by [Prof. Sam King](https://bob.cs.ucdavis.edu/){:target="_blank"}, where OS is highly involved. This course will mainly focus on constructing the UI and animation with SwiftUI and some advanced language features in Swift. Hence, we will not heavily rely on ECS 150 here.  However, the knowledge of OS will definitely help you understand course materials. Also, optional materials on advanced scheduling might be provided for your interests. Since you will learn Swift, a functional programming language, ECS 140 will definitely help you quickly pick up Swift in this course.
 
 ## Grade Breakdown
 
@@ -57,11 +60,5 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 ## Course Outline
 
 Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-title} section.
-
-## Acknowledgement
-
-- This website is built based on [Hydejack](https://hydejack.com/), a beautiful jekyll theme.
-- This website is continuously deployed by using [Netlify](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPssb6w7jyAhV9FTQIHSoTCLMQFnoECAgQAw&url=https%3A%2F%2Fwww.netlify.com%2F&usg=AOvVaw3sXtvDCHEM_yMr7dqTH7xl).
-- The source code of this website is hosted on [GitHub](https://github.com/ios-dev-ucdavis/course-website).
 
 [Course Outline]: outline.md

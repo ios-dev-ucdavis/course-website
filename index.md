@@ -11,7 +11,7 @@ You may find these information useful:
 - [Syllabus]{:.heading.flip-title}
 - [Course Outline]{:.heading.flip-title}
 
+
+
 [Syllabus]: syllabus.md
 [Course Outline]: outline.md
-
-
