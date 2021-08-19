@@ -1,17 +1,26 @@
 ---
 layout: page
-title: ECS 199F - iOS Dev Course
+title: ECS 198F - iOS Development
 sitemap: false
 ---
 
-Welcome to ECS 199F - iOS Development, a student-led iOS Dev course at UC Davis.
+## Welcome!
+
+Welcome to ECS 198F - iOS Development, a student-led iOS Dev course at UC Davis.
+
+## Information and Resources
 
 You may find these information useful:
 
 - [Syllabus]{:.heading.flip-title}
 - [Course Outline]{:.heading.flip-title}
+- [Q&A]{:.heading.flip-title}
+
+
+Additionally, the course flyer can be found [here](/assets/static/tentative-flyer.pdf).
 
 
 
 [Syllabus]: syllabus.md
 [Course Outline]: outline.md
+[Q&A]: Q&A.md

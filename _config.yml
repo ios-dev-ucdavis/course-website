@@ -52,6 +52,8 @@ menu:
     url:               /syllabus/
   - title:             Course Outline
     url:               /outline/
+  - title:             Q&A
+    url:               /qna/
   - title:             Acknowledgement
     url:               /ack/
 

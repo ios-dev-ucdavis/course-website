@@ -12,7 +12,7 @@ permalink: /syllabus/
 
 ## General Information
 
-- Title: ECS 199F - Student-Led iOS Development Course (Winter 2022)
+- Title: ECS 198F - Student-Led iOS Development Course (Winter 2022)
 - Unit: 2
 - Grading: N/NP
 - Prerequisite: ECS 150 and ECS 140 are **recommended** but not required.
