@@ -10,7 +10,7 @@ Welcome to ECS 198F - iOS Development, a student-led iOS Dev course at UC Davis.
 
 ## Information and Resources
 
-You may find these information useful:
+You may find this information useful:
 
 - [Syllabus]{:.heading.flip-title}
 - [Course Outline]{:.heading.flip-title}
