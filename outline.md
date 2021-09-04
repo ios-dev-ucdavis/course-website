@@ -17,8 +17,8 @@ permalink: /outline/
   - Lecture 1.2: Built-in SwiftUI Controls & Simple Layout
 
 ## Week 2: State Management (Jan 10 - Jan 14)
-  - Lecture 2.1: Swift Type System & @State
-  - Lecture 2.2: List and ForEach & Protocol & View Modifier
+  - Lecture 2.1: Swift Type System & How to Manage State
+  - Lecture 2.2: More Built-in SwiftUI Controls and More Swift Syntax --- "ForEach & Protocol & View Modifier"
     - Reminder
       - Assignment 1 out
     
@@ -29,7 +29,7 @@ permalink: /outline/
       - Assignment 1 due
       - Assignment 2 out
 
-## Week 4: View Component & Closure (Jan 24 - Jan 28)
+## Week 4: View Component & Advanced Swift Syntax (Jan 24 - Jan 28)
   - Lecture 4.1: View Component & Life Cycle
   - Lecture 4.2: Advanced Swift Syntax & Closure
     - Reminder
@@ -45,7 +45,7 @@ permalink: /outline/
     
 ## Week 6: Network (Feb 7 - Feb 11)
   - Lecture 6.1: Intro to Web APIs and JSON
-  - Lecture 6.2: API Call & Task System in Swift
+  - Lecture 6.2: Make API Call & Intro to Task System (await/await) in Swift
     - Reminder
       - Assignment 4 due
 
@@ -56,10 +56,10 @@ permalink: /outline/
   - Lecture 7.2: Structured and Unstructured Concurrancy, Actor Model  
 
 ## Week 8: Persistence (Feb 21 - Feb 25)
-  - Lecture 8.1: UserDefault
-  - Lecture 8.2: Persistence with Property Wrapper
+  - Lecture 8.1: Use UserDefault to Save User Settings
+  - Lecture 8.2: Persistence with Property Wrapper (Swift Syntactic Sugar)
 
-## Week 9: DSL (Feb 28 - Mar 4)
+## Week 9: Domain Specified Language (Feb 28 - Mar 4)
   - Lecture 9.1: Intro to the Concept of Domain Specified Language
   - Lecture 9.2: DSL Application on SwiftUI
 
