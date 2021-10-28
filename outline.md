@@ -12,6 +12,8 @@ permalink: /outline/
 
 <!-- ## Tentative Course Schedule Outline -->
 
+> All schedule listed below is subject to change before atual class.
+
 ## Week 1: Introduction (Jan 3 - Jan 7)
   - Lecture 1.1: Logistics & Intro to iOS Development with Xcode
   - Lecture 1.2: Built-in SwiftUI Controls & Simple Layout

@@ -12,10 +12,12 @@ permalink: /syllabus/
 
 ## General Information
 
-- Title: ECS 198F - Student-Led iOS Development Course (Winter 2022)
+- Title: ECS 198F - Student-Led iOS Development with SwiftUI (Winter 2022)
 - Unit: 2
 - Grading: N/NP
-- Prerequisite: ECS 150 and ECS 140 are **recommended** but not required.
+- Prerequisite: 
+  - Required: ECS 36B or ECS 32B
+  - Recommended: ECS 150 and ECS 140 (**not required**)
 
 | Information | Details |
 | :--- | :--- |
@@ -25,7 +27,7 @@ permalink: /syllabus/
 | TA | TBD |
 | Advisor | [Prof. Nina Amenta](https://www.cs.ucdavis.edu/~amenta/){:target="_blank"} |
 | Yibo's Office Hours | TBD |
-| TA's Office Hours | TBD |
+| Tutor Sessions | TBD |
 | Canvas | TBD |
 | Discussion Board | TBD |
 
@@ -50,11 +52,12 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 
 | Item | Percent | Description |
 | :--- | :--- | :--- |
-| Assignment 1 | 15% | NA |
-| Assignment 2 | 15% | NA |
-| Assignment 3 | 15% | NA |
-| Assignment 4 | 15% | NA |
-| Final Project | 40% | Code 20%, Demo 10%, and 10% free for your final week! |
+| Hello World Assignment | 5% | TBD |
+| Assignment 1 | 15% | TBD |
+| Assignment 2 | 15% | TBD |
+| Assignment 3 | 15% | TBD |
+| Assignment 4 | 15% | TBD |
+| Final Project | 35% | Code 20%, Demo 10%, and 5% Group Evaluation |
 
 
 ## Course Outline
