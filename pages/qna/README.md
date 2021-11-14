@@ -1,9 +1,9 @@
 ---
+layout: page
 title: Q&A
 description: >
-  Q&A
+  Answers to potential common questions.
 hide_description: true
-sitemap: false
 permalink: /qna/
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: Syllabus
 description: >
-  This is a draft version of tentative syllabus.
+  Basic information about ECS 198F - iOS Dev with SwiftUI.
 hide_description: true
-sitemap: false
 permalink: /syllabus/
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Acknowledgement
 hide_description: true
-sitemap: false
 permalink: /ack/
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: Course Outline
 description: >
-  Course outline
+  Overview of the content that will be covered througout the quarter.
 hide_description: true
-sitemap: false
 permalink: /outline/
 ---
 
