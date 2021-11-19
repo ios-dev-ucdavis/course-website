@@ -302,6 +302,10 @@ collections:
     permalink:         /assignments/:path/
     output:            true
 
+  preassignments:
+    permalink:         /preassignments/:path/
+    output:            true
+
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
