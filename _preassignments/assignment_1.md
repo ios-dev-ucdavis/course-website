@@ -4,7 +4,7 @@ title: Assignment 1
 caption: Display Reminder
 image: 
   path: /assets/assignment_1/cover.png
-
+sitemap: false
 ---
 
 In this assignment, you will add a badge view on `GroupCardView` to show the number of reminders inside the group. Also, you will work on creating views to display reminders and reminder cards.

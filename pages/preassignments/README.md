@@ -6,4 +6,5 @@ description: >
   Prerelease Assignments.
 no_groups: true
 permalink: /preassignments/
+sitemap: false
 ---
