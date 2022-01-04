@@ -11,7 +11,7 @@ permalink: /syllabus/
 
 ## General Information
 
-- Title: ECS 198F - Student-Led iOS Development with SwiftUI (Winter 2022)
+- Title: ECS 198F - Student-Led iOS Development with SwiftUI (Spring 2022)
 - Unit: 2
 - Grading: N/NP
 - Prerequisite: 
@@ -51,8 +51,8 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 
 | Item | Percent | Description |
 | :--- | :--- | :--- |
-| Hello World Assignment | 5% | TBD |
-| Assignment 1 | 15% | TBD |
+| Hello World Assignment | 5% | A simple Hello World assignment to prepare the environment |
+| Assignment 1 | 15% | UI and layout challenges |
 | Assignment 2 | 15% | TBD |
 | Assignment 3 | 15% | TBD |
 | Assignment 4 | 15% | TBD |
