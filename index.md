@@ -25,6 +25,6 @@ Additionally, the course flyer can be found [here](/assets/static/tentative-flye
 
 
 
-[Syllabus]: syllabus.md
-[Course Outline]: outline.md
-[Q&A]: Q&A.md
+[Syllabus]: syllabus
+[Course Outline]: outline
+[Q&A]: qna
