@@ -13,7 +13,7 @@ permalink: /syllabus/
 
 - Title: ECS 198F - Student-Led iOS Development with SwiftUI (Spring 2022)
 - Unit: 2
-- Grading: N/NP
+- Grading: P/NP
 - Prerequisite: 
   - Required: ECS 36B or ECS 32B
   - Recommended: ECS 150 and ECS 140 (**not required**)
