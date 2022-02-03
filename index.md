@@ -10,9 +10,13 @@ Welcome to ECS 198F - iOS Development, a student-led iOS Dev course at UC Davis.
 
 ## Announcement
 
-To further polish the course content and to secure a proper time slot and classroom for the instruction, we eventually decided to push this course to Spring 2022.
+- **CRN** for registering this course (Spring 2022) is **62458**!
 
-If you cannot register for this course due to either "repeated course number" or time conflicts but still want to learn about iOS dev, you can contact [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu) and I should be able to let you audit after instruction begins. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript. Meanwhile, you are also not required to do the homework and they will not be graded.
+- If you cannot register for this course due to either "repeated course number" or time conflicts but still want to learn about iOS dev, you can contact [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu) and I should be able to let you audit after instruction begins. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript. Meanwhile, you are also not required to do the homework and they will not be graded.
+
+- To further polish the course content and to secure a proper time slot and classroom for the instruction, we eventually decided to push this course to Spring 2022.
+
+
 
 ## Information and Resources
 
