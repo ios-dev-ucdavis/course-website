@@ -35,3 +35,9 @@ The optional materials are indeed optional. I provide them because I want to int
 ## What should I have to take this course?
 
 First of all, a computer that runs the latest version of macOS. Second, the latest version of Xcode. Third, I recommend ECS 140 and ECS 150 as they will help you learn the material more easily and quickly. Last but not least, a brave heart!
+
+## I cannot register for this course but still want to learn iOS dev.
+
+If you cannot register for this course due to either "repeated course number" or time conflicts but still want to learn about iOS dev, you can contact [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu) and I should be able to let you audit after instruction begins. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript.
+
+Meanwhile, you are also not required to do the homework and they will not be graded. Everything is off-book. This just let you access course materials.

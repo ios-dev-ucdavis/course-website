@@ -11,7 +11,7 @@ permalink: /syllabus/
 
 ## General Information
 
-- Title: ECS 198F - Student-Led iOS Development with SwiftUI (Spring 2022)
+- Title: ECS 198F 003 - Student-Led iOS Development with SwiftUI (Spring 2022)
 - Unit: 2
 - Grading: P/NP
 - Prerequisite: 
@@ -19,11 +19,11 @@ permalink: /syllabus/
   - Recommended: ECS 150 and ECS 140 (**not required**)
 
 | Information | Details |
-| :--- | :--- |
-| Lecture Time & Location | TBD |
-| Discussion Time & Location | TBD |
+|     :---    |   :---  |
+| Lecture Time | 4:10 - 5 pm TR |
+| Lecture Location | Teaching and Learning Complex 3210 |
 | Student Instructor | [Yibo Yan](https://www.meetybyan.com){:target="_blank"} |
-| TA | TBD |
+| Tutors | Yifan Huang, Yiyang Huo |
 | Advisor | [Prof. Nina Amenta](https://www.cs.ucdavis.edu/~amenta/){:target="_blank"} |
 | Yibo's Office Hours | TBD |
 | Tutor Sessions | TBD |
@@ -34,8 +34,10 @@ permalink: /syllabus/
 
 | Name | Email |
 | :--- | :--- |
-| Yibo Yan | [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu) |
-| Prof. Nina Amenta | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
+| Student Instructor: Yibo Yan | [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu)         |
+| Tutor: Yifan Huang           | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu )  |
+| Tutor: Yiyang Huo            | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
+| Advisor: Prof. Nina Amenta   | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
 
 ## Overview
 
