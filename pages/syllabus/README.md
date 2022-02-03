@@ -65,4 +65,4 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 
 Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-title} section.
 
-[Course Outline]: outline
+[Course Outline]: /outline
