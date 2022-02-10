@@ -18,13 +18,15 @@ Prof. Sam King's ECS 189E is based on **Storyboard**, a way of constructing UI, 
 
 ## Do I need a Mac for developing iOS app?
 
-In short, yes, you do need a Mac. 
+In short, yes, you do need a Mac. You can also use CSIF Mac devices. The instruction for accessing CSIF Mac devices will be posted soon.
 
-There are several ways of building iOS apps. People in the industry might use cross-platform frameworks to build iOS apps, such as Flutter, Xamarin, React Native, and a lot more. For these frameworks, the toolchains for building apps are not limited only to Apple's platforms. Hence, you can build iOS apps on any OS device as long as the toolchains support your machine. However, in this course, we will focus on native app development, which requires Xcode. Xcode is only available on macOS. **Note: You can have a macOS virtual machine running in the host environment, but the setup usually is quite complicated and often cannot run the latest macOS. In this course, you will need the latest macOS version up and running.**
+There are several ways of building iOS apps. People in the industry might use cross-platform frameworks to build iOS apps, such as Flutter, Xamarin, React Native, and a lot more. For these frameworks, the toolchains for building apps are not limited only to Apple's platforms. Hence, you can build iOS apps on any OS device as long as the toolchains support your machine. However, in this course, we will focus on native app development, which requires Xcode. Xcode is only available on macOS. 
+
+> **Note: You can have a macOS virtual machine running in the host environment, but the setup usually is quite complicated and often cannot run the latest macOS. In this course, you will need the latest macOS version up and running.**
 
 ## Is this course counted as elective?
 
-Sorry, no. The department does have some constraints on this matter, but I believe this course will be fun no matter what, so please enjoy us if you like to learn some new stuff about iOS. Cheers!
+Sorry, no. The department does have some constraints on this matter, but I believe this course will be fun no matter what, so please join us if you like to learn some new stuff about iOS. Cheers!
 
 ## Do I have to go through all optional materials?
 
@@ -34,10 +36,12 @@ The optional materials are indeed optional. I provide them because I want to int
 
 ## What should I have to take this course?
 
-First of all, a computer that runs the latest version of macOS. Second, the latest version of Xcode. Third, I recommend ECS 140 and ECS 150 as they will help you learn the material more easily and quickly. Last but not least, a brave heart!
+First of all, a computer (or you can use CSIF Mac devices) that runs the latest version of macOS. Second, the latest version of Xcode. Third, I recommend ECS 140 and ECS 150 as they will help you learn the material more easily and quickly. Last but not least, a brave heart!
 
 ## I cannot register for this course but still want to learn iOS dev.
 
-If you cannot register for this course due to either "repeated course number" or time conflicts but still want to learn about iOS dev, you can contact [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu) and I should be able to let you audit after instruction begins. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript.
+If you cannot register for this course due to the "repeated course number", you can contact [CS Undergrad Advising](mailto:csugadvising@ucdavis.edu) with your SID. CS UG Advising is working on that, redirecting requests to the college and the registrar's office. They cannot guarantee it will work, but it is worth trying.
+
+If that doesn't work out in the end, I should be able to let you audit after instruction begins if you want. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript.
 
 Meanwhile, you are also not required to do the homework and they will not be graded. Everything is off-book. This just let you access course materials.

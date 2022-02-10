@@ -15,6 +15,7 @@ permalink: /ack/
 
 - Background hero image is from [Engadget](https://www.engadget.com/2018-06-04-apple-ios-12-update-wwdc-2018.html){:target="_blank"}.
 - Logo icon is from [icon8](https://icons8.com/icon/HO4ZeQOTgkWV/swiftui){:target="_blank"}.
+- [Aileen Yang](https://aileenfyang.com/){:target="_blank"} helped to prototype the UI for our instructional demo app.
 
 ### Development & Build
 
