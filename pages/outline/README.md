@@ -6,12 +6,13 @@ hide_description: true
 permalink: /outline/
 ---
 
-<!-- 0. this unordered seed list will be replaced by toc as unordered list
-{:toc} -->
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 <!-- ## Tentative Course Schedule Outline -->
 
-> All schedule listed below is subject to change before atual class.
+> All schedule listed below is subject to change before atual class.  
+> This outline is currently under construction to adapt to the Spring quarter schedule.
 
 ## Week 1: Introduction (Jan 3 - Jan 7)
   - Lecture 1.1: Logistics & Intro to iOS Development with Xcode

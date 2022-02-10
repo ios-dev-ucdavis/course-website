@@ -6,7 +6,7 @@ hide_description: true
 permalink: /syllabus/
 ---
 
-0. this unordered seed list will be replaced by toc as unordered list
+* this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
 ## General Information
@@ -32,12 +32,12 @@ permalink: /syllabus/
 
 ## Contact Information
 
-| Name | Email |
-| :--- | :--- |
-| Student Instructor: Yibo Yan | [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu)         |
-| Tutor: Yifan Huang           | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu )  |
-| Tutor: Yiyang Huo            | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
-| Advisor: Prof. Nina Amenta   | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
+|      | Name | Email |
+| :--- | :--- | :--- |
+| Student Instructor | Yibo Yan          | [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu)         |
+| Tutor              | Yifan Huang       | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu )  |
+| Tutor              | Yiyang Huo        | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
+| Advisor            | Prof. Nina Amenta | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
 
 ## Overview
 

@@ -7,7 +7,7 @@ hide_description: true
 permalink: /qna/
 ---
 
- 0. this unordered seed list will be replaced by toc as unordered list
+* this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
 ## Is this course different from ECS 189E taught by Prof. Sam King?
