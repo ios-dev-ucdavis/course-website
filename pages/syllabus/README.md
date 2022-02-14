@@ -65,4 +65,28 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 
 Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-title} section.
 
+## Late Submission Policy
+
+Normally, each assignment will be released on Thursday and due on next Thursday 11:59 pm. You will have one week for each assignment.
+
+Late submission will be granted upon request. If you wish to use extension, please email  [instructor](mailto:ybyan@ucdavis.edu) *before the original deadline* with title `[ECS 198F 003] Assignment{NUMBER} Extension Request` (replace the {NUMBER} with actual assignment number), just in case the email get filtered out. Please also include your roaster name and SID, so we can log the information correctly.
+
+If no request is submitted before the original deadline, we will assume you don't need an extension.
+{:.note title="Attention"}
+
+We will grant **at most 4 days**, so the last day to submit is Monday 11:59 pm (assume the original deadline is Thursday 11:59 pm). For late submission penalty, please see below.
+
+### Late Submission Penalty
+
+The late submission penalty is calculated per assignment.
+
+| Late Days  | Grade Penalty |
+|   :---:    |     :---:     |
+|  <= 1 Day  | 5%  |
+| 1 ~ 2 Days | 10% |
+| 2 ~ 3 Days | 15% |
+| 3 ~ 4 Days | 20% |
+
+If the extension is not requested, we will look at the last commit before the original deadline. If the extension is granted, we will look at the last commit before the extended the deadline and calculate the penalty based on that timestamp.
+
 [Course Outline]: /outline
