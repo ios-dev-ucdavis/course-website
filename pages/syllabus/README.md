@@ -67,6 +67,8 @@ Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-t
 
 ## Late Submission Policy
 
+> The late submission policy only applies to weekly assignments. No late submission will be granted for the group final project. Please start your final project as soon as possible.
+
 Normally, each assignment will be released on Thursday and due on next Thursday 11:59 pm. You will have one week for each assignment.
 
 Late submission will be granted upon request. If you wish to use extension, please email  [instructor](mailto:ybyan@ucdavis.edu) *before the original deadline* with title `[ECS 198F 003] Assignment{NUMBER} Extension Request` (replace the {NUMBER} with actual assignment number), just in case the email get filtered out. Please also include your roaster name and SID, so we can log the information correctly.
@@ -88,5 +90,6 @@ The late submission penalty is calculated per assignment.
 | 3 ~ 4 Days | 20% |
 
 If the extension is not requested, we will look at the last commit before the original deadline. If the extension is granted, we will look at the last commit before the extended the deadline and calculate the penalty based on that timestamp.
+
 
 [Course Outline]: /outline
