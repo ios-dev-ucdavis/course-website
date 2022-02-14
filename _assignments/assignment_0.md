@@ -3,7 +3,7 @@ layout: project
 title: Assignment 0
 caption: Hello, World!
 image: 
-  path: /assets/assignment_0/cover.png
+  path: https://raw.githubusercontent.com/ios-dev-ucdavis/course-website/master/assets/assignment_0/cover.png?token=GHSAT0AAAAAABNVBX2NT3MFTCLKH3NGSHROYQJT4SQ
 ---
 
 This is a short assignment to mainly help you set up your local environment for developing iOS apps. All steps described below should already been covered in the lecture, so it won't take too much time for you to go through them.
@@ -30,7 +30,7 @@ In this stage, your goal is setting up a *Hello World* project to make sure you 
 
     After installing Xcode, open Xcode to create the project. You will first see a welcome page like this:
 
-    <img src="/assets/assignment_0/xcode_welcome.png" style="zoom:40%;" />
+    <img src="https://raw.githubusercontent.com/ios-dev-ucdavis/course-website/master/assets/assignment_0/xcode_welcome.png?token=GHSAT0AAAAAABNVBX2NV4YHFPFHBMNZBP36YQJT3XQ" style="zoom:40%;" />
 
     Be sure to check whether the version number listed below the icon is **Version 13.x**.
 
@@ -60,7 +60,7 @@ Simply add a `VStack`, and include both your name and your student id in it.
 
 It might look like this:
 
-<img src="/assets/assignment_0/preview.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/ios-dev-ucdavis/course-website/master/assets/assignment_0/preview.png?token=GHSAT0AAAAAABNVBX2MYCLUPMOZNN3DZSWIYQJT5IQ" style="zoom:50%;" />
 
 It doesn't matter how you organize information and layout the view, as long as we can easily identify your name and student ID.
 
@@ -76,7 +76,7 @@ Then, push the code to the GitHub. You are all set!
 
 The final file structure should looks like this:
 
-![](/assets/assignment_0/file_structure.jpg)
+![](https://raw.githubusercontent.com/ios-dev-ucdavis/course-website/master/assets/assignment_0/file_structure.jpg?token=GHSAT0AAAAAABNVBX2NDO26GJXKAS62QHSWYQJT5SA)
 
 [xcode_release]: https://developer.apple.com/documentation/xcode-release-notes/xcode-13-release-notes "Xcode 13 Release Note"
 
