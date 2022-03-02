@@ -27,10 +27,12 @@ Therefore, the only two options we have is **Mac-3 and Mac-4**. They are located
 If you want to remotely connect to these macs and use graphical user interface(GUI), you should follow these steps.
 
 - Step 1: Create an account on the mac computer you want to use.
-	First, you may want to go to CSIF room #75, and create an account on the mac computer you want to use. Differnt from Ubuntu Virtual Machines in CSIF, you'll not be able to remotely connect to mac computers if you don't physically go to CSIF and create an account.
+	
+  First, you may want to go to CSIF room #75, and create an account on the mac computer you want to use. Differnt from Ubuntu Virtual Machines in CSIF, you'll not be able to remotely connect to mac computers if you don't physically go to CSIF and create an account.
 
 - Step 2: Establish a SSH (Secure Shell) tunnel
-	In this step, you need to establish a SSH tunnel so you can use VNCViewer later.
+	
+  In this step, you need to establish a SSH tunnel so you can use VNCViewer later.
 	
 	*If you are using a Mac/Linux machine:*
 			1. Open the terminal app, and type in the following command:
@@ -46,10 +48,12 @@ If you want to remotely connect to these macs and use graphical user interface(G
 			4. Then go back to Session, and login to mac##.cs.ucdavis.edu as normal
 
 - Step 3: Download and Install VNCViewer on your machine
-	Go to VNCViewer [website](https://www.realvnc.com/en/connect/download/viewer/) and download the appropriate version.
+	
+  Go to VNCViewer [website](https://www.realvnc.com/en/connect/download/viewer/) and download the appropriate version.
 
 - Step 4: Configure VNC Server through terminal
-	Come back to the SSH session, and type in:
+	
+  Come back to the SSH session, and type in:
 		`vncserver`
 	Or 
 		`vncserver -geometry <Resolution: Horizontal>x<Resolution: Vertical>`
@@ -74,4 +78,3 @@ If you want to remotely connect to these macs and use graphical user interface(G
 > Some caveats:
 > 1. Account infomation **will not be synced across these mac machines**. If you've created an account on Mac-3, you will encounter an error when trying to remotely login to another mac (for example, Mac-2). Thus, be sure to stick with one machine, it will save you time.
 > 2. All data on the mac computer **will not be backed up** automatically. Thus, we recommend backing up your data constantly, or use a version control system like Git **(strongly recommend)**.
-
