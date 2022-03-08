@@ -10,7 +10,7 @@ permalink: /mac/
 ### Who is This Guide For?
 If you are intersted in iOS/macOS development but don't have access to a Macintosh Computer, this guide is for you!
 If you have a mac, and it is running **macOS Big Sur 11.3 and later**, you probably don't need this guide.
-[How to find out which macOS version I'm using?]([Find out which macOS your Mac is using - Apple Support](https://support.apple.com/en-us/HT201260))
+[How to find out which macOS version I'm using?](https://support.apple.com/en-us/HT201260)
 
 ### Access Macintosh Machines on Campus Physically
 There are multiple places on campus where you can access a Machintosh computer (e.g, Olson, SCC and Shields Library). However, for our course, you need a mac running at least **macOS Big Sur (11.3 and later)**. Thus, you need to go to the basement of Kemper Hall *(545 Bainer Hall Dr, Davis, CA 95616)*.
@@ -51,6 +51,7 @@ If you want to remotely connect to these macs and use graphical user interface(G
 	
   Go to VNCViewer [website](https://www.realvnc.com/en/connect/download/viewer/) and download the appropriate version.
 
+<!---
 - Step 4: Configure VNC Server through terminal
 	
   Come back to the SSH session, and type in:
@@ -69,8 +70,9 @@ If you want to remotely connect to these macs and use graphical user interface(G
 	> You will require a password to access your desktops.
 
 	Then you should enter a password you can remember. You will use this when you login to the server. Then run vncserver as described above.
+-->
 
-- Step 5: Open VNCViewer and Connect!
+- Step 4: Open VNCViewer and Connect!
 	Open VNCViewer, and connect to
 		`localhost:5902`
 	Follow the prompt, and you are good to go!
