@@ -18,7 +18,7 @@ Prof. Sam King's ECS 189E is based on **Storyboard**, a way of constructing UI, 
 
 ## Do I need a Mac for developing iOS app?
 
-In short, yes, you do need a Mac. You can also use CSIF Mac devices. The instruction for accessing CSIF Mac devices can be found [here](mac).
+In short, yes, you do need a Mac. You can also use CSIF Mac devices. The instruction for accessing CSIF Mac devices can be found [here](/mac).
 
 There are several ways of building iOS apps. People in the industry might use cross-platform frameworks to build iOS apps, such as Flutter, Xamarin, React Native, and a lot more. For these frameworks, the toolchains for building apps are not limited only to Apple's platforms. Hence, you can build iOS apps on any OS device as long as the toolchains support your machine. However, in this course, we will focus on native app development, which requires Xcode. Xcode is only available on macOS. 
 
