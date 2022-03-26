@@ -65,6 +65,10 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 
 Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-title} section.
 
+## Access CSIF Mac Devices
+
+Currently, you haven't been given the access to CSIF mac devices. An announcement will be posted when it's done. You can find the instrution of accessing CSIF mac devices from [here](mac).
+
 ## Late Submission Policy
 
 > The late submission policy only applies to weekly assignments. No late submission will be granted for the group final project. Please start your final project as soon as possible.
