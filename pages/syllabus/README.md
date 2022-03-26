@@ -27,17 +27,27 @@ permalink: /syllabus/
 | Advisor | [Prof. Nina Amenta](https://www.cs.ucdavis.edu/~amenta/){:target="_blank"} |
 | Yibo's Office Hours | TBD |
 | Tutor Sessions | TBD |
-| Canvas | TBD |
-| Discussion Board | TBD |
+| Canvas | [External Link](https://canvas.ucdavis.edu/courses/693622) |
+| Discussion Board | Links are on Canvas's syllabus section. |
 
 ## Contact Information
 
 |      | Name | Email |
 | :--- | :--- | :--- |
 | Student Instructor | Yibo Yan          | [ybyan@ucdavis.edu](mailto:ybyan@ucdavis.edu)         |
-| Tutor              | Yifan Huang       | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu )  |
+| Tutor              | Yifan Huang       | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu)  |
 | Tutor              | Yiyang Huo        | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
 | Advisor            | Prof. Nina Amenta | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
+
+## Email Correspondence
+
+For any general question regarding syllabus, logistics, or assignment, please post it on Discord or GitHub Discussion.
+
+For personal or sensitive matter, you can directly send emails to [Yibo Yan](mailto:yifhuang@ucdavis.edu).
+
+For any code-related question that you didn't get response promptly on discussion board, you can send emails to Yibo Yan and 'cc all tutors, so you can get your response as quick as possible.
+
+Please DO NOT directly email to Prof. Amenta regarding this course unless if it is really necessary. Prof. Amenta doesn't directly lead this course. Therefore, she might not be able to help you.
 
 ## Overview
 
