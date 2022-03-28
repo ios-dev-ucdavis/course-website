@@ -6,7 +6,7 @@ image:
   path: /assets/assignment_0/cover.png
 sitemap: false
 links:
-  - title: Assignment Repo Link
+  - title: Assignment Invitation Link
     url: https://classroom.github.com/a/8-7_Adsu
 ---
 
