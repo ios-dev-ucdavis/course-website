@@ -70,9 +70,7 @@ It doesn't matter how you organize information and layout the view, as long as w
 
 After finishing all steps described above, take a screenshot of your preview or simulator screen and save it as `preview.jpg` into your repository's root directory.
 
-Create a new txt file named `students.txt` in your repository's root directory and put your name and student ID into the file. The format should be `<name>, <student_id>`. For example:  `Yibo Yan, 916129017`
-
-Then, push the code to GitHub. You are all set!
+Then, push the code to GitHub. The **MOST IMPORTANT** last thing is submitting the url link of this repository to corresponding Canvas assignment. After that, You are all set!
 
 The final file structure should look like this:
 
