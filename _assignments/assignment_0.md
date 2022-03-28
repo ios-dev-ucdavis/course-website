@@ -42,7 +42,7 @@ In this stage, your goal is setting up a *Hello World* project to make sure you 
 
 3. Configure project settings
 
-    Choose arbitary name and organization identifier for your app. Make sure `Interface` is set to `SwiftUI`, and `Language` is set to `Swift`.
+    Choose an arbitary name and organization identifier for your app. Make sure `Interface` is set to `SwiftUI`, and `Language` is set to `Swift`.
 
     You don't need to check `Use Core Data` and `Include Tests`, as we likely won't cover these topics in this course.
 
