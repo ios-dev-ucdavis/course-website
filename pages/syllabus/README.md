@@ -41,6 +41,9 @@ permalink: /syllabus/
 
 ## Email Correspondence
 
+Please include `[ECS 198F]` in the email title when sending an email to us so it won't get filtered out accidentally.
+{:.note title="Note"}
+
 For any general question regarding syllabus, logistics, or assignment, please post it on Discord or GitHub Discussion.
 
 For personal or sensitive matter, you can directly send emails to [Yibo Yan](mailto:yifhuang@ucdavis.edu).
