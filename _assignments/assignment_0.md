@@ -3,10 +3,10 @@ layout: project
 title: Assignment 0
 caption: Hello, World!
 image: 
-    path: /assets/assignment_0/cover.png
+  path: /assets/assignment_0/cover.png
 links:
-    - title: Assignment Invitation Link
-        url: https://classroom.github.com/a/8-7_Adsu
+  - title: Assignment Invitation Link
+    url: https://classroom.github.com/a/8-7_Adsu
 ---
 
 This is a short assignment to mainly help you set up your local environment for developing iOS apps. All steps described below should already be covered in the lecture, so it won't take too much time for you to go through them.
