@@ -1,4 +1,4 @@
-```yaml
+---
 layout: project
 
 title: Assignment 0
@@ -7,8 +7,8 @@ caption: Hello, World!
 
 image:
 
- path: /assets/assignment_0/cover.png
-```
+path: /assets/assignment_0/cover.png
+---
 
 This is a short assignment to mainly help you set up your local environment for developing iOS apps. All steps described below should already be covered in the lecture, so it won't take too much time for you to go through them.
 
