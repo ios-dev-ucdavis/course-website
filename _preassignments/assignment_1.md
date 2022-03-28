@@ -3,11 +3,11 @@ layout: project
 title: Assignment 1
 caption: Display Reminder
 image: 
-    path: /assets/assignment_1/cover.png
+  path: /assets/assignment_1/cover.png
 sitemap: false
 links:
-    - title: Assignment Repo Link
-        url: https://classroom.github.com/a/4P9FItZ_
+  - title: Assignment Repo Link
+    url: https://classroom.github.com/a/4P9FItZ_
 ---
 
 In this assignment, you will add a badge view on `GroupCardView` to show the number of reminders inside the group. Also, you will work on creating views to display reminders and reminder cards.
