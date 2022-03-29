@@ -82,9 +82,15 @@ Course outline can be found in the sidebar, in [Course Outline]{:.heading.flip-t
 
 Currently, you haven't been given the access to CSIF mac devices. An announcement will be posted when it's done. You can find the instrution of accessing CSIF mac devices from [here](/mac).
 
+## Regrade Policy
+
+For any regrade request, please directly send email to the student instructor within 1 week of the initial grade release date.
+
+Please use `[ECS 198F 003] Assignment{NUMBER} Regrade Request` as title (replace the {NUMBER} with actual assignment number), in case the email get filtered out accidentally. Please also include your roaster name and SID in your email.
+
 ## Late Submission Policy
 
-> The late submission policy only applies to weekly assignments. No late submission will be granted for the group final project. Please start your final project as soon as possible.
+> The late submission policy only applies to weekly assignments. No late submission will be granted for the group final project or introductory assignment. Please start your final project as soon as possible.
 
 Normally, each assignment will be released on Thursday and due on next Thursday 11:59 pm. You will have one week for each assignment.
 
