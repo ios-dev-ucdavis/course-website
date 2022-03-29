@@ -43,15 +43,12 @@ You need to manually set unit to 2 on the Schedule Builder.
 | Tutor              | Yiyang Huo        | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
 | Advisor            | Prof. Nina Amenta | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
 
-## Tutor Sessions and Office Hours
 
-All tutor sessions and office hours will be hold online via Zoom. If the current timing of tutor sessions and office hours don't work you, feel free to send the email to the student instructor and tutors.
+## Overview
 
-Joining information can be found on Canvas's `Zoom` tab.
+> Thanks to Prof. Nina Amenta for sponsoring and giving out valuable advice to this course. Also, thanks to Prof. Sam King for encouraging me to make this course happen.
 
-Upon request, we can set up more tutor sessions and OHs if you need more!
-
-The student instructor and tutors will be active on Discord. Therefore, we are more than happy to provide text help or just jump into voice channel to help!
+This course will teach you how to develop iOS apps with SwiftUI and other new technologies offered in the latest iOS. We will focus on UI construction, animation, navigation, and wonderful Swift language features! Due to the limitation of the course unit, we will not overload you with full topics on iOS development. If you're interested, more optional materials (pre-recorded videos or readings) might be provided to prepare you more for iOS development.
 
 ## Email Correspondence
 
@@ -66,11 +63,15 @@ For any code-related question that you didn't get response promptly on discussio
 
 Please DO NOT directly email to Prof. Amenta regarding this course unless if it is really necessary. Prof. Amenta doesn't directly lead this course. Therefore, she might not be able to help you.
 
-## Overview
+## Tutor Sessions and Office Hours
 
-> Thanks to Prof. Nina Amenta for sponsoring and giving out valuable advice to this course. Also, thanks to Prof. Sam King for encouraging me to make this course happen.
+All tutor sessions and office hours will be hold online via Zoom. If the current timing of tutor sessions and office hours don't work you, feel free to send the email to the student instructor and tutors.
 
-This course will teach you how to develop iOS apps with SwiftUI and other new technologies offered in the latest iOS. We will focus on UI construction, animation, navigation, and wonderful Swift language features! Due to the limitation of the course unit, we will not overload you with full topics on iOS development. If you're interested, more optional materials (pre-recorded videos or readings) might be provided to prepare you more for iOS development.
+Joining information can be found on Canvas's `Zoom` tab.
+
+Upon request, we can set up more tutor sessions and OHs if you need more!
+
+The student instructor and tutors will be active on Discord. Therefore, we are more than happy to provide text help or just jump into voice channel to help!
 
 ## Do I need ECS 150 (OS) and ECS 140 (Programming Language)?
 
