@@ -11,6 +11,9 @@ permalink: /syllabus/
 
 ## General Information
 
+You need to manually set unit to 2 on the Schedule Builder.
+{:.note title="Attention"}
+
 - Title: ECS 198F 003 - Student-Led iOS Development with SwiftUI (Spring 2022)
 - Unit: 2
 - Grading: P/NP
@@ -25,8 +28,9 @@ permalink: /syllabus/
 | Student Instructor | [Yibo Yan](https://www.meetybyan.com){:target="_blank"} |
 | Tutors | Yifan Huang, Yiyang Huo |
 | Advisor | [Prof. Nina Amenta](https://www.cs.ucdavis.edu/~amenta/){:target="_blank"} |
-| Yibo's Office Hours | TBD |
-| Tutor Sessions | TBD |
+| Yibo's Office Hours | Wed 1-2 pm on Zoom |
+| Yifan's Tutor Sessions | Tue 10-11 am on Zoom  |
+| Yiyang's Tutor Sessions | Thu 10-11 am on Zoom |
 | Canvas | [External Link](https://canvas.ucdavis.edu/courses/693622) |
 | Discussion Board | Links are on Canvas's syllabus section. |
 
@@ -38,6 +42,16 @@ permalink: /syllabus/
 | Tutor              | Yifan Huang       | [yifhuang@ucdavis.edu](mailto:yifhuang@ucdavis.edu)  |
 | Tutor              | Yiyang Huo        | [huo@ucdavis.edu](mailto:huo@ucdavis.edu)             |
 | Advisor            | Prof. Nina Amenta | [amenta@cs.ucdavis.edu](mailto:amenta@cs.ucdavis.edu) |
+
+## Tutor Sessions and Office Hours
+
+All tutor sessions and office hours will be hold online via Zoom. If the current timing of tutor sessions and office hours don't work you, feel free to send the email to the student instructor and tutors.
+
+Joining information can be found on Canvas's `Zoom` tab.
+
+Upon request, we can set up more tutor sessions and OHs if you need more!
+
+The student instructor and tutors will be active on Discord. Therefore, we are more than happy to provide text help or just jump into voice channel to help!
 
 ## Email Correspondence
 
