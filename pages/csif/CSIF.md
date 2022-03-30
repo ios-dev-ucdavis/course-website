@@ -75,6 +75,8 @@ If you want to remotely connect to these macs and use graphical user interface(G
 		`localhost:5902`
 	Follow the prompt, and you are good to go!
 
+> Notes: If you encounter any problem regarding VNC Viewer, [this link](https://help.realvnc.com/hc/en-us/articles/360002254738-VNC-Connect-Error-Messages#vnc-server-error-messages-0-1) may help. Or you can contact us on our Discord channel/office hours. We're here to help!
+
 > Some caveats:
 > 1. Account infomation **will not be synced across these mac machines**. If you've created an account on Mac-3, you will encounter an error when trying to remotely login to another mac (for example, Mac-2). Thus, be sure to stick with one machine, it will save you time.
 > 2. All data on the mac computer **will not be backed up** automatically. Thus, we recommend backing up your data constantly, or use a version control system like Git **(strongly recommend)**.
