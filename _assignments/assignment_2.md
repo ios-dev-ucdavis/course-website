@@ -225,7 +225,7 @@ Hint: to implement the two-phase opening panel, you can try to adjust the frame 
 * (5 pt) Be able to expand the `InspirationView` with proper animations and also be able to shrink it back. 
 
 
-## Stage 3 (10 Pts in total)
+## Stage 4 (10 Pts in total)
 
 > Commit, Push, and Submit
 
