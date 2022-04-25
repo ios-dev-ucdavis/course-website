@@ -69,13 +69,16 @@ permalink: /outline/
   - Lecture 8.1 (May 17): Continued Task System & Final Project Prompt
   - Lecture 8.2 (May 19): Structured and Unstructured Concurrancy, Actor Model  
 
-    Assignment 4 due on Tuesday
-    Brainstorm on Final Project
+    Assignment 4 due on Tuesday  
+    Brainstorm on Final Project and Proposal Submission is Open on Friday
     {:.note title="Reminder"}
 
 ## Week 9: Persistence
   - Lecture 9.1 (May 24): Use UserDefault to Save User Settings
   - Lecture 9.2 (May 26): Persistence with Property Wrapper (Swift Syntactic Sugar)
+
+    Final Project Proposal is due on Friday
+    {:.note title="Reminder"}
 
 ## Originally Planned Week 9: Domain Specified Language
   - Lecture 9.1 (May 24): Intro to the Concept of Domain Specified Language

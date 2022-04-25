@@ -86,7 +86,7 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 | Assignment 2 | 15% | Animations and Transitions |
 | Assignment 3 | 15% | Data Flow and Essentials |
 | Assignment 4 | 15% | Network (RESTful API) |
-| Final Project | 35% | Code 20%, Demo 10%, and 5% Group Evaluation |
+| Final Project | 35% | Proposal 5%, Code 15%, Demo/Presentation 10%, and Group Evaluation 5% |
 
 
 ## Course Outline
@@ -113,7 +113,7 @@ Normally, each assignment will be released on Thursday and due on next Thursday 
 
 ~~Late submission will be granted upon request. If you wish to use extension, please email  [instructor](mailto:ybyan@ucdavis.edu) *before the original deadline* with title `[ECS 198F 003] Assignment{NUMBER} Extension Request` (replace the {NUMBER} with actual assignment number), just in case the email get filtered out. Please also include your roaster name and SID, so we can log the information correctly.~~
 
-We will grant **at most 3 days**. For example, the last day to submit and push to your repository hosted on the GitHub is Monday 11:59 pm if the original deadline is Thursday 11:59 pm. For late submission penalty, please see below.
+We will grant **at most 3 days**. For example, the last day to submit and push to your repository hosted on the GitHub is Sunday 11:59 pm if the original deadline is Thursday 11:59 pm. For late submission penalty, please see below.
 
 ### Late Submission Penalty
 
