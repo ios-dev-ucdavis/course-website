@@ -77,11 +77,7 @@ permalink: /outline/
   - Lecture 8.1 (May 17): Use UserDefault to Save User Settings
   - Lecture 8.2 (May 19): Persistence with Property Wrapper (Swift Syntactic Sugar)
 
----
-
-All schedule below is subject to change.
-
-## Week 9: Domain Specified Language
+## Originally Planned Week 9: Domain Specified Language
   - Lecture 9.1 (May 24): Intro to the Concept of Domain Specified Language
   - Lecture 9.2 (May 26): DSL Application on SwiftUI
 
