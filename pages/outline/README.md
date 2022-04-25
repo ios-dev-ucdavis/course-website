@@ -59,23 +59,23 @@ permalink: /outline/
     {:.note title="Reminder"}
     
 ## Week 7: Network
-  - Lecture 6.1 (May 3): Intro to Web APIs and JSON
-  - Lecture 6.2 (May 5): Make API Call & Intro to Task System (await/await) in Swift
+  - Lecture 7.1 (May 10): Intro to Web APIs and JSON
+  - Lecture 7.2 (May 12): Make API Call & Intro to Task System (await/await) in Swift
   
     Assignment 4 out on Tuesday
     {:.note title="Reminder"}
 
 ## Week 8: Concurrancy Model
-  - Lecture 7.1 (May 10): Continued Task System & Final Project Prompt
-  - Lecture 7.2 (May 12): Structured and Unstructured Concurrancy, Actor Model  
+  - Lecture 8.1 (May 17): Continued Task System & Final Project Prompt
+  - Lecture 8.2 (May 19): Structured and Unstructured Concurrancy, Actor Model  
 
     Assignment 4 due on Tuesday
     Brainstorm on Final Project
     {:.note title="Reminder"}
 
 ## Week 9: Persistence
-  - Lecture 8.1 (May 17): Use UserDefault to Save User Settings
-  - Lecture 8.2 (May 19): Persistence with Property Wrapper (Swift Syntactic Sugar)
+  - Lecture 9.1 (May 24): Use UserDefault to Save User Settings
+  - Lecture 9.2 (May 26): Persistence with Property Wrapper (Swift Syntactic Sugar)
 
 ## Originally Planned Week 9: Domain Specified Language
   - Lecture 9.1 (May 24): Intro to the Concept of Domain Specified Language
