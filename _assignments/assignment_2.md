@@ -235,3 +235,11 @@ Even if you intend to use late policy, you still need to submit your repository 
 
 **Grade Breakdown:**
 - (10 pt) A valid GitHub repository link is submitted on Canvas before the original deadline.
+
+
+---
+
+## Bonus! (15 Pts Max)
+
+
+
