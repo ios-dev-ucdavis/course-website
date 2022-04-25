@@ -244,12 +244,17 @@ Even if you intend to use late policy, you still need to submit your repository 
 
 > A further step into making nice, subtle Animations.
 
+
+
 There is a little but nice animation when you toggle the completion marker of a `ReminderCardView` (top-right corner of the card-like view). Take a look at the behavior below (GIF):
+
 
 ![](../assets/assignment_2/in_card.gif)
 
+
 You can achieve this by having two different icons and modify their animations and transitions.
 
-> **Hint** 
-> 1. You might want to extract the definition and implementation of this completion marker into a separate SwiftUI file, if you originally implemented this marker right inside your `ReminderCardView`.
-> 2. You may need to delay some animations. Try `.delay` on any animation!
+
+1. You might want to extract the definition and implementation of this completion marker into a separate SwiftUI file, if you originally implemented this marker right inside your `ReminderCardView`.
+2. You may need to delay some animations. Try `.delay` on any animation!
+{:.note title="Hints"}
