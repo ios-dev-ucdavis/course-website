@@ -254,7 +254,7 @@ There is a little but nice animation when you toggle the completion marker of a 
 
 You can achieve this by having two different icons and modify their animations and transitions.
 
+**Hints:** 
 
-  1. You might want to extract the definition and implementation of this completion marker into a separate SwiftUI file, if you originally implemented this marker right inside your `ReminderCardView`.
-  2. You may need to delay some animations. Try `.delay` on any animation!
-{:.note title="Hints"}
+1. You might want to extract the definition and implementation of this completion marker into a separate SwiftUI file, if you originally implemented this marker right inside your `ReminderCardView`.
+2. You may need to delay some animations. Try `.delay` on any animation!
