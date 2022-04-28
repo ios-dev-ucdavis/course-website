@@ -9,8 +9,6 @@ permalink: /finalproj/
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-# Final Project
-
 > This project is an opportunity for everyone to be creative and explore areas of app development that interest you the most. No longer being guided through carefully curated assignments, you and a team of 3-4 other students will now have the opportunity to develop any app you’d like.
 
 ## Key Dates
@@ -36,9 +34,12 @@ When all group match are finalized, we will create a Group on Canvas for your gr
 
 ## Pitch
 
-You have to make a pitch on your idea and plan for the final project to us by **Friday, May 13th**. You can sign up for the time slot by using this [sheet](https://docs.google.com/spreadsheets/d/1998W4O8tCFUTeXDThNKjJMY1AdQZG5dDySRUN62nBFI/edit?usp=sharing). All group members must be present during the pitch.
+You have to make a pitch on your idea and plan for the final project to us on **Friday, May 13th**. You can sign up for the time slot by using this [sheet](https://docs.google.com/spreadsheets/d/1998W4O8tCFUTeXDThNKjJMY1AdQZG5dDySRUN62nBFI/edit?usp=sharing). All group members must be present during the pitch.
 
 This is **REQUIRED**. You won’t get any credit for your final project if you are absent. This is a great opportunity to let us coordinate your project at the first place.
+
+> **Important**  
+> You need to submit your slide for the pitch presentation at least 1 day before your pitch on Canvas.
 
 You will have about 10-15 mins for your pitch presentation. You need to prepare a slide and entire pitch presentation should cover these topics:
 
@@ -82,7 +83,10 @@ You will have about 10-15 mins for your pitch presentation. You need to prepare 
 
 ## Presentation
 
-The presentation will be hold in person during regular lecture time at Teaching and Learning Complex 3210 (our regular classroom) in the last lecture - June 2nd. You need to be here to present to get the full credit for presentation part.
+The presentation will be hold in person during regular lecture time at Teaching and Learning Complex 3210 (our regular classroom) in the last lecture - **Thursday, June 2nd**. You need to be here to present with your group to get the full credit for presentation part.
+
+> **Important**  
+> You need to submit your slide at least 1 day before the final presentation on Canvas.
 
 Presentation Length Per Group: TBD, maybe ~10 mins
 
@@ -102,9 +106,13 @@ However, if based on the evalution given by your teammates that you barely contr
 
 ## Submissions
 
-### Pitch Submission
+### Pitch Slide Submission
 
 Please upload your slide for pitch presentation on Canvas 1 day before your pitch.
+
+### Final Presentation Slide Submission
+
+Please upload your slide for final presentation on Canvas at least 1 day before the final presentation.
 
 ### Final Code Submission
 
@@ -112,6 +120,5 @@ Your final submission should have all the parts in a GitHub repo.
 
 On Canvas, you should submit your repository link.
 
-The GitHub repo should contain the following:
-Codebase for your app (does not need to be 100% functional, but should be logical. Some crashes and errors are fine)
+> The GitHub repo should contain the codebase for your app (does not need to be 100% functional, but should be logical. Some crashes and errors are fine)
 Make sure the code is generally commented with core goals in each file
