@@ -86,7 +86,7 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 | Assignment 2 | 15% | Animations and Transitions |
 | Assignment 3 | 15% | Data Flow and Essentials |
 | Assignment 4 | 15% | Network (RESTful API) |
-| Final Project | 35% | Proposal 5%, Code 15%, Demo/Presentation 10%, and Group Evaluation 5% |
+| Final Project | 35% | Pitch 5%, Code 15%, Demo/Presentation 10%, and Group Evaluation 5% |
 
 
 ## Course Outline
