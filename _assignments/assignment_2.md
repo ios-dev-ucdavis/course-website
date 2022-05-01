@@ -87,7 +87,7 @@ The `GroupView` is the main entry view. It lists all `GroupCardView`s, represent
 - You need to use `LazyVGrid` to display all `ReminderCardView` in a two-column style.
 - You need to display the name of the corresponding reminder group as the navigation title.
 - You need to use `NavigationLink` to enable the navigation between `ReminderView` and `DetailView`.
-- You need to use `.environmentObject()` to inject the `reminderVM` into the `DetailView`.
+- You need to use `.environmentObject()` to inject the `reminderGroupVM` into the `DetailView`.
 
 **Grade Breakdown:**
 
