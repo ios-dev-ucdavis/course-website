@@ -87,7 +87,7 @@ The `GroupView` is the main entry view. It lists all `GroupCardView`s, represent
 - You need to use `LazyVGrid` to display all `ReminderCardView` in a two-column style.
 - You need to display the name of the corresponding reminder group as the navigation title.
 - You need to use `NavigationLink` to enable the navigation between `ReminderView` and `DetailView`.
-- You need to use `.environmentObject()` to inject the `reminderVM` into the `DetailView`.
+- You need to use `.environmentObject()` to inject the `reminderGroupVM` into the `DetailView`.
 
 **Grade Breakdown:**
 
@@ -225,7 +225,7 @@ Hint: to implement the two-phase opening panel, you can try to adjust the frame 
 * (5 pt) Be able to expand the `InspirationView` with proper animations and also be able to shrink it back. 
 
 
-## Stage 3 (10 Pts in total)
+## Stage 4 (10 Pts in total)
 
 > Commit, Push, and Submit
 
@@ -235,3 +235,26 @@ Even if you intend to use late policy, you still need to submit your repository 
 
 **Grade Breakdown:**
 - (10 pt) A valid GitHub repository link is submitted on Canvas before the original deadline.
+
+
+---
+
+
+## Bonus! (15 Pts Max)
+
+> A further step into making nice, subtle Animations.
+
+
+
+There is a little but nice animation when you toggle the completion marker of a `ReminderCardView` (top-right corner of the card-like view). Take a look at the behavior below (GIF):
+
+
+![](../assets/assignment_2/in_card.gif)
+
+
+You can achieve this by having two different icons and modify their animations and transitions.
+
+**Hints:** 
+
+1. You might want to extract the definition and implementation of this completion marker into a separate SwiftUI file, if you originally implemented this marker right inside your `ReminderCardView`.
+2. You may need to delay some animations. Try `.delay` on any animation!

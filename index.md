@@ -16,7 +16,7 @@ Welcome to ECS 198F - iOS Development with SwiftUI, a student-led iOS Dev course
 
   If that doesn't work out in the end, I should be able to let you audit after instruction begins if you want. However, by doing so, you are not officially registered for this course. Hence, you won't receive any unit and the record won't be on your transcript.
 
-  Meanwhile, you are also not required to do the homework and they will not be graded. Everything is off-book. This just let you access course materials.
+  Meanwhile, you are also not required to do the homework and they might not be graded. Everything is off-book. This just let you access course materials.
 
 - To further polish the course content and to secure a proper time slot and classroom for the instruction, we eventually decided to push this course to Spring 2022.
 

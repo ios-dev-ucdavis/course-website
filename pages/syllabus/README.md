@@ -83,10 +83,10 @@ This course will be different from the ECS 189E offered by [Prof. Sam King](http
 | :--- | :--- | :--- |
 | Hello World Assignment | 5% | A simple Hello World assignment to prepare the environment |
 | Assignment 1 | 15% | UI and layout challenges |
-| Assignment 2 | 15% | TBD |
-| Assignment 3 | 15% | TBD |
-| Assignment 4 | 15% | TBD |
-| Final Project | 35% | Code 20%, Demo 10%, and 5% Group Evaluation |
+| Assignment 2 | 15% | Animations and Transitions |
+| Assignment 3 | 15% | Data Flow and Essentials |
+| Assignment 4 | 15% | Network (RESTful API) |
+| Final Project | 35% | Pitch 5%, Code 15%, Demo/Presentation 10%, and Group Evaluation 5% |
 
 
 ## Course Outline
@@ -109,12 +109,11 @@ Please use `[ECS 198F 003] Assignment{NUMBER} Regrade Request` as title (replace
 
 Normally, each assignment will be released on Thursday and due on next Thursday 11:59 pm. You will have one week for each assignment.
 
-Late submission will be granted upon request. If you wish to use extension, please email  [instructor](mailto:ybyan@ucdavis.edu) *before the original deadline* with title `[ECS 198F 003] Assignment{NUMBER} Extension Request` (replace the {NUMBER} with actual assignment number), just in case the email get filtered out. Please also include your roaster name and SID, so we can log the information correctly.
+(Modified late policy) If you commit or push anything after the original deadline, you will be automatically considered for late submisson. No need for sending request anymore.
 
-If no request is submitted before the original deadline, we will assume you don't need an extension.
-{:.note title="Attention"}
+~~Late submission will be granted upon request. If you wish to use extension, please email  [instructor](mailto:ybyan@ucdavis.edu) *before the original deadline* with title `[ECS 198F 003] Assignment{NUMBER} Extension Request` (replace the {NUMBER} with actual assignment number), just in case the email get filtered out. Please also include your roaster name and SID, so we can log the information correctly.~~
 
-We will grant **at most 4 days**, so the last day to submit is Monday 11:59 pm (assume the original deadline is Thursday 11:59 pm). For late submission penalty, please see below.
+We will grant **at most 3 days**. For example, the last day to submit and push to your repository hosted on the GitHub is Sunday 11:59 pm if the original deadline is Thursday 11:59 pm. For late submission penalty, please see below.
 
 ### Late Submission Penalty
 
@@ -125,9 +124,8 @@ The late submission penalty is calculated per assignment.
 |  <= 1 Day  | 5%  |
 | 1 ~ 2 Days | 10% |
 | 2 ~ 3 Days | 15% |
-| 3 ~ 4 Days | 20% |
 
-If the extension is not requested, we will look at the last commit before the original deadline. If the extension is granted, we will look at the last commit before the extended the deadline and calculate the penalty based on that timestamp.
+We will checkout to your latest commit or the last commit before the last day of the late submission, whichever comes first. If you pushed anything to your repository on GitHub, you will be automatically considered for late submission. Therefore, please **DO NOT** commit or push anything after the deadline if you don't want to use the late policy.
 
 
 [Course Outline]: /outline

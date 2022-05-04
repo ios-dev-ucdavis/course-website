@@ -54,6 +54,8 @@ menu:
     url:               /outline/
   - title:             Assignments
     url:               /assignments/
+  - title:             Final Project
+    url:               /finalproj/
   - title:             Q&A
     url:               /qna/
   - title:             Acknowledgement
