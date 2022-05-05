@@ -197,7 +197,7 @@ Go to the file `MainViews/GroupView.swift` and add these two buttons/icons.
 * (5 pt) Correctly add the trailing toolbar item.
 
 
-### Stage 3.1 (10 Pts)
+### Stage 3.2 (10 Pts)
 
 Take a look at the file `InspirationView.swift` to have a general idea about this view. Now, go back to the files `MainViews/GroupView.swift`. You will also need to edit `InspirationView` in this sub-stage.
 
@@ -209,7 +209,7 @@ You need to implement the open and close action for the `InspirationView`.
 * (2.5 pt) Be able to close the `InspirationView` by clicking on the close button inside `InspirationView` with the proper transition.
 * (2.5 pt) Be able to close the `InspirationView` by clicking on the `backdropLayer` inside `InspirationView` with the proper transition.
 
-### Stage 3.2 (10 Pts)
+### Stage 3.3 (10 Pts)
 
 The `InspirationView` should have a two-phase panel. By default, when we open up the `InspirationView`, it takes half the screen. You can expand it to full screen if you want. Of course, you can also shrink it back.
 
