@@ -17,7 +17,7 @@ In this assignment, you will take a further step to explore the usage of differe
 In this stage, you need to create a model, a view model and a view for the settings view. The settings view won't be reachable directly in your app by the end of this stage. However, we will link the settings view in the following stages. At that time, you should be able to open the settings view and check the correctness of your implementation in this stage by changing things on the fly.
 
 
-### Stage 1.1 (5 Pts)
+### Stage 1.1 (10 Pts)
 
 In this sub-stage, you need to create a model for settings. You need to create a Swift file named `Settings.swift` in the folder `Models`. You can name your struct as `Settings`.
 
