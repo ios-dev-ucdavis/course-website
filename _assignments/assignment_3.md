@@ -8,16 +8,16 @@ image:
 
 In this assignment, you will take a further step to explore the usage of different tools provided by SwiftUI, such as `@EnvironmentObject`, `@ObservedObject` and more.
 
-> Notes: In this assignment, you might have some trouble to make the preview work. The highly possible reason is that you declare a `@EnvironmentObject` in your view and the object is passed from ancestor views, but the preview doesn't have such information. In this case, you may want to pass a `@EnvironmentObject` to your preview to make it work.
+> Notes: In this assignment, you might have some trouble to make the preview work. One highly possible reason is that you declare a `@EnvironmentObject` in your view and the environment object is supoosed to be passed from ancestor views, but the preview doesn't have such information. In this case, you may want to pass a `@EnvironmentObject` to your preview to make it work.
 
-## Stage 1 (45 Pts in total)
+## Stage 1 (55 Pts in total)
 
 > Let's create a settings view!
 
-In this stage, you need to create a model, a view model and a view for the settings view. The settings view won't be reachable by the end of this stage. However, you will add a button to the flyout action button. At that time, you should be able to open the settings view and check the correctness of your implementation in this stage by changing things on the fly.
+In this stage, you need to create a model, a view model and a view for the settings view. The settings view won't be reachable directly in your app by the end of this stage. However, we will link the settings view in the following stages. At that time, you should be able to open the settings view and check the correctness of your implementation in this stage by changing things on the fly.
 
 
-### Stage 1.1 (5 Pts)
+### Stage 1.1 (10 Pts)
 
 In this sub-stage, you need to create a model for settings. You need to create a Swift file named `Settings.swift` in the folder `Models`. You can name your struct as `Settings`.
 
@@ -33,11 +33,11 @@ In this model file/struct, you are required to provide four properties.
 
 **Grade Breakdown:**
 
-* (1 pt) Correctly create the required model named `Settings` in the right folder with the right filename.
-* (1 pt) Correctly create `var showProgressRing: Bool` property.
-* (1 pt) Correctly create `var showStepsPreview: Bool` property.
-* (1 pt) Correctly create `var maxNumOfStepsPreview: Int` property. 
-* (1 pt) Correctly create `var welcomeGreetings: String` property. 
+* (2 pt) Correctly create the required model named `Settings` in the right folder with the right filename.
+* (2 pt) Correctly create `var showProgressRing: Bool` property.
+* (2 pt) Correctly create `var showStepsPreview: Bool` property.
+* (2 pt) Correctly create `var maxNumOfStepsPreview: Int` property. 
+* (2 pt) Correctly create `var welcomeGreetings: String` property. 
 
 ### Stage 1.2 (10 Pts)
 
@@ -61,12 +61,12 @@ There are some requirements for this view model.
 
 **Grade Breakdown:**
 
-* (2 pt) Correctly create the `SettingsViewModel` class in the right folder with right filename.
+* (2 pt) Correctly create the `SettingsViewModel` class in the right folder with the right filename.
 * (2 pt) Correctly conform to the right protocol for the `SettingsViewModel`.
 * (2 pt) Correctly mark the local `settings` model with the right property wrapper.
 * (4 pt) Correctly define four computed variables with `getter` and `setter`.
 
-### Stage 1.3 (10 Pts)
+### Stage 1.3 (15 Pts)
 
 In this sub-stage, you will use the `SettingsViewModel` created in the previous sub-stage and reflect the changes of settings on your UI.
 
@@ -83,7 +83,7 @@ Some steps to guide you through (TODO marks are provided in some files too):
 **Grade Breakdown:**
 
 * (2 pt) Correctly declare the `settingsVM` in the top level of your app with right property wrapper.
-* (4 pt) Correctly grab the `settingsVM` from the environment for both `GroupView` and `ReminderCardView`.
+* (5 pt) Correctly grab the `settingsVM` from the environment for both `GroupView` and `ReminderCardView`.
 * (2 pt) Correctly apply the welcome greeting based on settings.
 * (2 pt) Correctly show/hide the progress ring based on settings. 
 * (2 pt) Correctly show/hide the step preview based on settings. 
@@ -101,24 +101,24 @@ You need to create a SwiftUI file named `SettingsView.swift` in the folder `View
 
 To achieve the view like this, you may also need to know how to use `Toggle` and `Stepper`, which are two built-in views in SwiftUI library. These two things are not covered in the lecture and you need to figure out how to use them on your own. There are lots of built-in views in SwiftUI standard library and we won't be able to cover them all. Of course, lots of 3rd-party libraries also are out there and we won't be able to cover them in the lecture. Therefore, it's quite important for you to know how to pick up things from official documents and code examples online. Some additional resources are provided below.
 
-- `Toggle`
+- `Toggle`  
   This is an UI element to let users toggle a button. [Official Document](https://developer.apple.com/documentation/swiftui/toggle).
 
-- `Stepper`
+- `Stepper`  
   This is an UI element to let users increase or decrease a value by pre-defined amount. [Official Document](https://developer.apple.com/documentation/swiftui/stepper)
 
-**Remarks**  
-1. You will practice the usage of `Binding` in both `Toggle` and `Stepper`.
-2. You can limit the range of the `Stepper` to 1-5. Namely, we allow the user to display at most 5 steps or at least 1 steps. Of course, users can shutdown the step preview entirely.
-3. You need to hide the view of `Stepper` if the user disable the steps preview entirely.
-4. You may have trouble with preview. Do remember to pass an environment object to preview!
-5. You need to use `TextField` to allow the user to customize the welcome greeting text.
+> **Remarks**  
+> 1. You will practice the usage of `Binding` in both `Toggle` and `Stepper`.
+> 2. You can limit the range of the `Stepper` to 1-5. Namely, we allow the user to display at most 5 steps or at least 1 steps. Of course, users can shutdown the step preview entirely.
+> 3. You need to hide the view of `Stepper` if the user disable the steps preview entirely.
+> 4. You may have trouble with preview. Do remember to pass an environment object to previews!
+> 5. You need to use `TextField` to allow the user to customize the welcome greeting text.
 
 **Grade Breakdown:**
 
-* (5 pt) Correctly implement a settings view with right section header from where the user can go into `Welcome Page` or `ReminderPage`.
-* (5 pt) Correctly implement a welcome page settings view with right section header from where the user can set the greeting text.
-* (5 pt) Correctly implement a reminder page settings view with right section header from where the user adjust the settings.
+* (5 pt) Correctly implement a settings view with the right section header from where the user can go into `Welcome Page` or `ReminderPage`.
+* (5 pt) Correctly implement a welcome page settings view with the right section header from where the user can set the greeting text.
+* (5 pt) Correctly implement a reminder page settings view with the right section header from where the user adjust the settings.
 * (5 pt) Correctly show/hide the `Stepper` when the user disables the steps preview entirely.
 
 ## Stage 2 (15 Pts in total)
@@ -143,7 +143,7 @@ In this sub-stage, you need to declare a `ActionButtonViewModel` instance in the
 
 **Grade Breakdown:**
 
-* (5 pt) Correctly declare the `actionButtonVM` with right proper wrapper.
+* (5 pt) Correctly declare the `actionButtonVM` with the right proper wrapper.
 * (5 pt) Correctly place the `ActionButton` view according to the requirement.
 
 ### Stage 2.2 (5 Pts)
@@ -175,7 +175,7 @@ Steps to follow:
 
 **Grade Breakdown:**
 
-* (5 pt) Correctly inject the `actionButtonVM` as en environment object in `GroupView`.
+* (5 pt) Correctly inject the `actionButtonVM` as an environment object in `GroupView`.
 * (5 pt) Correctly use `@EnvironmentOject` for `actionButtonVM` in both `ReminderView` and `DetailView`.
 
 
