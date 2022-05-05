@@ -76,8 +76,8 @@ Some steps to guide you through (TODO marks are provided in some files too):
 2. Pass this newly declared `settingsVM` to `GroupView` as an environment object.  
 3. Go to the file `GroupView.swift`. Declare an environment object which grabs the `settingsVM` view model from the environment as you just injected this view model from the parent view.  
 4. Still in the file `GroupView.swift`, use the `welcomeGreetings` from the `settingsVM` to set your navigation title properly.  
-5. Go to the file `ReminderCardView.swift`. Do something similar to step 2.  
-6. Still in the file `GroupView.swift`, follow the TODO marks to correctly apply settings to the UI. There are 3 TODO marks.  
+5. Go to the file `ReminderCardView.swift`. Do something similar to step 3.  
+6. Still in the file `ReminderCardView.swift`, follow the TODO marks to correctly apply settings to the UI. There are 3 TODO marks.  
    > For the step of limiting the number of steps for preview, there is no requirement on how to select which step to preview, as long as you have the correct number. You can just try to use `.prefix()`, which is defined on any array by default.
 
 **Grade Breakdown:**
