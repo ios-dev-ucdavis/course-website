@@ -3,7 +3,7 @@ layout: project
 title: Assignment 4
 caption: Network and Web APIs
 image: 
-  path: /assets/assignment_3/cover.png
+  path: /assets/assignment_4/cover.png
 ---
 
 In this assignment, you will pratice how to initiate an API request, fetch data from API endpoint, parse the data, and present the data in your app.
