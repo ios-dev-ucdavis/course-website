@@ -8,14 +8,14 @@ image:
 
 In this assignment, you will pratice how to initiate an API request, fetch data from API endpoint, parse the data, and present the data in your app.
 
-> Notes: This assignment's skeleton code is based on the solution of assignment 2, which should be similar to the starter code of assignment 3.
-
+This assignment's skeleton code is based on the solution of assignment 2, which should be similar to the starter code of assignment 3.
+{:.note title="Note"}
 
 ## Stage 1 (30 Pts in total)
 
 > Let's create a picker to let users switch between `Quote` and `Images`.
 
-In this stage, you will create a picker in the `InspirationView` to let users switch between `QuoteView` (you will implement it in the later stage) and `ImageGalleryView`. This might be the hardest part of this entire assignment as you have to learn how to use `Picker` and pratice the usage of `enum`. Some hints are available for each stage.
+In this stage, you will create a picker in the `InspirationView` to let users switch between `QuoteView` (you will implement it in the later stage) and `ImageGalleryView`. This might be the hardest part of this entire assignment as you have to learn how to use `Picker` and pratice the usage of `enum`.
 
 ### Stage 1.1 (15 Pts)
 
@@ -23,7 +23,7 @@ In this sub-stage, you need to go over the official document on `Picker` from [h
 
 **There are some requirements:**
 1. **You must create this `enum` in the file `Views/InspirationViews/InspirationView.swift`.** 
-2. Your `enum` must have and only have two cases. One is named `quotes` and another one is named `images`. They are representing two different views that users want to display.
+2. Your `enum` must have and only have two cases. One is named `quotes` and another one is named `images`. They represents two different views that users want to display.
 3. Your `enum` must conform to `CaseIterable` protocol, so that you can use `.allCases` to iterate over all cases later in the `Picker`.
 4. Your `enum` must have a computed variable named `name: String`, which will return the capitalized string of each case. For example, if your `enum` is named as `InspirationType`, then when you access `InspirationType.quotes.name` it returns a capitalized `String` - "Quotes". If you access `InspirationType.images.name`, it returns a capitalized `String` - "Images".
 
@@ -46,7 +46,13 @@ In this sub-stage, you need to go over the official document on `Picker` from [h
 
 In this sub-stage, you will create the `Picker` in our `InspirationView`. Go to the file `Views/InspirationViews/InspirationView.swift` again, and you will work on this file. TODO comments are available in the skeleton code.
 
-Find the right place and declare your `Picker` here. The `Picker` will display two different tabs - `Images` and `Quotes` (capitalized). The final result should be similar to the GIF shown at beginning of the Stage 1 description.
+Find the right place and declare your `Picker` here. The `Picker` will display two different tabs - `Images` and `Quotes` (capitalized). You can use the `name` computed variable defined in the previous sub-stage.
+
+The expected result of this sub-stage should be somthing like this:
+
+| Image | Interaction with Picker |
+| :---: | :---: |
+| ![](../assets/assignment_4/stage1-2.png) | ![](../assets/assignment_4/picker_interaction.gif)
 
 **You must utilize `.allCases` on `enum` to loop through all cases in the `enum`.**
 
@@ -64,7 +70,11 @@ Find the right place and declare your `Picker` here. The `Picker` will display t
 
 ### Stage 1.3 (5 Pts)
 
-In this sub-stage, you will need to create the `QuoteView` (you can just leave it as a template file, we will finish it up in the later stage). You will link two views - `QuoteView` and `ImageGalleryView`, so that users can finally switch between two views by selecting different choice in the `Picker` we declared before.
+In this sub-stage, you will need to create the `QuoteView` (you can just leave it as a template file, we will finish it up in the later stage). You will use a `switch` statement on two views - `QuoteView` and `ImageGalleryView`, so that users can finally switch between two views by selecting different choice in the `Picker` we declared before.
+
+The expected result of this sub-stage should be something like this:
+
+![](../assets/assignment_4/stage1-3.gif)
 
 **There are some steps and requirements to follow:**
 1. You need to create a SwiftUI file named `QuoteView.swift` in the folder `Views/InspirationViews`. You can just leave it as the template file for now.
@@ -81,8 +91,9 @@ In this sub-stage, you will need to create the `QuoteView` (you can just leave i
 
 In this stage, we will take a close look at the API we will use. We will create the API service, view, model, view model for the `QuoteView`.
 
-**Important Note!**
+
 Don't pay anything for the API. The API service we will use in this assignment is hosted and managed by 3rd-party platform. We will only use the free part of the API service for this assignment.
+{:.note title="Important Notes"}
 
 
 ### Stage 2.1 (15 Pts)
