@@ -8,7 +8,7 @@ image:
 
 In this assignment, you will practice how to initiate an API request, fetch data from the API endpoint, parse the data, and present the data in your app.
 
-I've noticed that quite a few people are struggling with previous assignments, so I intentionally rewrote assignment 2 and 3 to make it easier to finish, instead of using prompts I originally planned. Meanwhile, I also wish you to put more time on your final project.
+I've noticed that quite a few people are struggling with previous assignments, so I intentionally rewrote assignment 3 and 4 to make them easier, instead of using prompts I originally planned. Meanwhile, I also wish you to put more time on your final project.
 
 Estimated Time to Complete this Assignment:
 - If you are already mastered all materials covered in the lecture, you probably can get this one done ~1 hr.
