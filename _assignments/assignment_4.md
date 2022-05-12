@@ -8,6 +8,12 @@ image:
 
 In this assignment, you will practice how to initiate an API request, fetch data from the API endpoint, parse the data, and present the data in your app.
 
+I've noticed that quite a few people are struggling with previous assignments, so I intentionally rewrote assignment 2 and 3 to make it easier to finish, instead of using prompts I originally planned. Meanwhile, I also wish you to put more time on your final project.
+
+Estimated Time to Complete this Assignment:
+- If you are already mastered all materials covered in the lecture, you probably can get this one done ~1 hr.
+- If you need to revisit some concepts, you probably still can get this done in 2-4 hrs.
+
 This assignment's skeleton code is based on the solution of assignment 2, which should be similar to the starter code of assignment 3.
 {:.note title="Note"}
 
@@ -25,7 +31,7 @@ In this sub-stage, you need to go over the official document on `Picker` from [h
 1. **You must create this `enum` in the file `Views/InspirationViews/InspirationView.swift`.** 
 2. Your `enum` must have and only have two cases. One is named `quotes` and another one is named `images`. They represent two different views that users want to display.
 3. Your `enum` must conform to the `CaseIterable` protocol so that you can use `.allCases` to iterate over all cases later in the `Picker`.
-4. Your `enum` must have a computed variable named `name: String`, which will return the capitalized string of each case. For example, if your `enum` is named as `InspirationType`, then when you access `InspirationType.quotes.name` it returns a capitalized `String` - "Quotes". If you access `InspirationType.images.name`, it returns a capitalized `String` - "Images".
+4. Your `enum` must have a computed variable named `name: String`, which will return the **capitalized** string of each case. For example, if your `enum` is named as `InspirationType`, then when you access `InspirationType.quotes.name` it returns a capitalized `String` - "Quotes". If you access `InspirationType.images.name`, it returns a capitalized `String` - "Images".
 
 **Hints:**
 1. You can conform your `enum` to the `String` protocol. Then you can get a `String` representation of each case in your `enum` by using `.rawValue`.  
@@ -130,7 +136,7 @@ Based on this pattern and structure, create a file named `Quote.swift` in the fo
 1. You are responsible for creating the right fields with the correct name in your `Quote` struct based on the payload you observe.
 2. You must name all fields in the `Quote` according to the field name in the payload. You are not allowed to use `CodingKeys` here to customize the field name. However, I do encourage you to do that beyond this assignment.
 3. You are responsible for conforming this struct to the right protocol, which makes the struct can be decoded from a JSON string.
-4. You might need to one or more fields to the `Optional` type, as the payload might not always return all fields that are shown in the official document. However, we will not use these fields that are not returned in the payload. Therefore, it's ok if you just do not declare them in the code at all.
+4. You might need to set one or more fields to the `Optional` type, as the payload might not always return all fields that are shown in the official document, or the example above. However, we will not use these fields that are not returned in the payload. Therefore, it's ok if you just do not declare them in the code at all.
 
 **Grade Breakdown:**
 
@@ -155,7 +161,7 @@ Again, the endpoint we will use is: [https://zenquotes.io/api/quotes](https://ze
    It takes nothing but returns an `Optional` of an array of `Quote`s.
 
 4. In the `getQuotes()` function, you need to initiate an API request to the endpoint, fetch the data, and use `JSONDecoder` to decode the data into an array of `Quote`s.
-5. You should handle errors in the function `getQuotes()`. If an error occurs, simply return `nil`.
+5. You should handle errors in the function `getQuotes()`. If an error occurs, simply return `nil`. A `guard let` or `if let` binding is efficient.
 6. You must check the HTTP response code. Namely, you should check whether the response code is 200, which indicates a successful action. If it's not, again, return `nil`.
 7. You must use `try-do-catch` block on `URLSession.shared.data()` to catch and print the error if an error occurs.
 8. You must use `try?` when calling `JSONDecoder().decode()`.
