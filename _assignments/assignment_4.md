@@ -11,8 +11,8 @@ In this assignment, you will practice how to initiate an API request, fetch data
 I've noticed that quite a few people are struggling with previous assignments, so I intentionally rewrote assignment 3 and 4 to make them easier, instead of using prompts I originally planned. Meanwhile, I also wish you to put more time on your final project.
 
 Estimated Time to Complete this Assignment:
-- If you are already mastered all materials covered in the lecture, you probably can get this one done ~1 hr.
-- If you need to revisit some concepts, you probably still can get this done in 2-4 hrs.
+- If you are already mastered all materials covered in the lecture, you probably can get this one done ~1-2 hrs.
+- If you need to revisit some concepts, you probably still can get this done in ~3-6 hrs.
 
 This assignment's skeleton code is based on the solution of assignment 2, which should be similar to the starter code of assignment 3.
 {:.note title="Note"}
